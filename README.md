@@ -1,7 +1,7 @@
 <div align="center">
         <h1>Web Developer</h1>
-        <a href="https://github.com/daihiepnguyen"><img src="https://github-readme-stats.vercel.app/api?username=daihiepnguyen&count_private=true&hide=stars&custom_title=Github%20Stats&border_radius=15" height="128px"/>
-        </a>
+        <!--<a href="https://github.com/daihiepnguyen"><img src="https://github-readme-stats.vercel.app/api?username=daihiepnguyen&count_private=true&hide=stars&custom_title=Github%20Stats&border_radius=15" height="128px"/>
+        </a>-->
         <a href="https://github.com/daihiepnguyen"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=daihiepnguyen&langs_count=6&border_radius=15&range=last_7_days&layout=compact&custom_title=Last%207%20Days" height="128px"/>
         </a>
         <a href="https://github.com/daihiepnguyen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daihiepnguyen&layout=compact&langs_count=6&border_radius=15" height="128px"/>
